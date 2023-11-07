@@ -7,7 +7,7 @@ LinkedList: Implementación de lista doblemente enlazada.
 Vector: Implementación de lista basada en un array dinámico (similar a ArrayList pero sincronizada).
 Stack: Implementación de una pila (hereda de Vector).
 Mapas:
-Interfaz Map:
+Interfaz Map:  
 HashMap: Implementación de mapa basada en una tabla hash (no garantiza el orden de los elementos).
 LinkedHashMap: Implementación de mapa que mantiene el orden de inserción.
 TreeMap: Implementación de mapa basada en un árbol (ordena las claves).
