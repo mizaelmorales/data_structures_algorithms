@@ -28,6 +28,7 @@ Deque:
 ArrayDeque: Implementación de cola doble.
 LinkedList: Implementación de cola doblemente enlazada.
  */
+ 
 class ListNode {
     String player;
     ListNode next;
