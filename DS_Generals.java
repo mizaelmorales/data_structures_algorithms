@@ -25,7 +25,7 @@ Queue:
 LinkedList: Implementación de cola (puede utilizarse como una cola FIFO).
 PriorityQueue: Implementación de cola de prioridad.
 Deque:
-ArrayDeque: Implementación de cola doble.
+ArrayDeque: Implementación de cola doble. 
 LinkedList: Implementación de cola doblemente enlazada.
  */
  
