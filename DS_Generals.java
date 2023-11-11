@@ -23,7 +23,7 @@ LinkedHashSet: Implementación de conjunto que mantiene el orden de inserción.
 TreeSet: Implementación de conjunto basada en un árbol (ordenada).
 Queue:
 LinkedList: Implementación de cola (puede utilizarse como una cola FIFO).
-PriorityQueue: Implementación de cola de prioridad.
+PriorityQueue: Implementación de cola de prioridad. 
 Deque:
 ArrayDeque: Implementación de cola doble.  
 LinkedList: Implementación de cola doblemente enlazada.
