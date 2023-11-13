@@ -16,7 +16,7 @@ public class Graph {
 	}
 	
 	public void addEdge(int src, int dst) {
-		matrix[src][dst] = 1;
+		matrix[src][dst] = 1; 
 	}
 	
 	public boolean checkEdge(int src, int dst) {
