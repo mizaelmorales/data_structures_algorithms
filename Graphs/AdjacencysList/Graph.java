@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.AdjacencysList;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 

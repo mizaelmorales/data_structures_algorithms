@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.BFS;
-
 public class Node {
     
 	char data;

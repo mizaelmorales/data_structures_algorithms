@@ -1,5 +1,3 @@
-package GIT.algoritmos;
-
 public class Recursives {
     // recursion = When a thing is defined in terms of itself. - Wikipedia
 	//			   Apply the result of a procedure, to a procedure.  

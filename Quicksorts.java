@@ -1,4 +1,3 @@
-package GIT.algoritmos;
 import java.util.ArrayList;
 public class Quicksorts {
     public static void main(String args[])

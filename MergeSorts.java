@@ -1,5 +1,3 @@
-package GIT.algoritmos;
-
 public class MergeSorts {
     public static void main(String args[])
     {   	

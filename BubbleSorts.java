@@ -1,5 +1,3 @@
-package GIT.algoritmos;
-
 public class BubbleSorts {
     // bubble sort = pairs of adjacent elements are compared, and the elements
 	//		            swapped if they are not in order.

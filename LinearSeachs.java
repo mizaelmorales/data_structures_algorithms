@@ -1,4 +1,3 @@
-package GIT.algoritmos;
 //run time complexit : 0(n)
 //disadvantages
 //slow for large data sets

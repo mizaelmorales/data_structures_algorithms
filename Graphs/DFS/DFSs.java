@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.DFS;
-
 public class DFSs {
     public static void main(String[] args) {
 		

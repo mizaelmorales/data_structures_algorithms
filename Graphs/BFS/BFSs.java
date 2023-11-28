@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.BFS;
-
 public class BFSs {
 	public static void main(String[] args) {
 		

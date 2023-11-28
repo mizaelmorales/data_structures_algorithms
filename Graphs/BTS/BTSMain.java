@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.BTS;
-
 public class BTSMain {
     public static void main(String[] args) {
     	

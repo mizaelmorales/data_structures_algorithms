@@ -1,5 +1,3 @@
-package GIT.algoritmos;
-
 public class InterpolationSearchs {
 
 

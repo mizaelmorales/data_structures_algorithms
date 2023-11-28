@@ -1,5 +1,3 @@
-package GIT.algoritmos;
-
 import java.util.Stack;
 
 public class Stacks {

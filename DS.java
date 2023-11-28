@@ -1,5 +1,3 @@
-package GIT.algoritmos;
-
 import java.util.*;
 /*Listas:
 Interfaz List:

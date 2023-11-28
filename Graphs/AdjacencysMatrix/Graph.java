@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.AdjacencysMatrix;
-
 import java.util.ArrayList;
 
 public class Graph {

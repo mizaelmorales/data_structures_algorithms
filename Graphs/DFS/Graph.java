@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.DFS;
-
 import java.util.ArrayList;
 
 public class Graph {

@@ -1,5 +1,3 @@
-package GIT.algoritmos;
-
 public class SelectionSorts {
     // selection sort = search through an array and keep track of the minimum value during 
 	//			         each iteration. At the end of each iteration, we swap values.

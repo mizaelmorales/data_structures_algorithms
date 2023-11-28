@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.AdjacencysMatrix;
-
 public class Node {
 
 	char data;

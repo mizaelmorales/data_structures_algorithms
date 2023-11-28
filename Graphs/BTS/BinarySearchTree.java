@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.BTS;
-
 public class BinarySearchTree {
     Node root;
 	

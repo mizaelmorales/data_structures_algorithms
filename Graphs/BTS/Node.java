@@ -1,5 +1,3 @@
-package GIT.algoritmos.Graphs.BTS;
-
 public class Node {
     int data;
 	Node left;
